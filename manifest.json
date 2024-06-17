@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "NoShorts",
+    "version": "1.0",
+    "description": "Remove All YouTube Reels (ytd-reel-shelf-renderer elements) from YouTube Search Results.",
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://*.youtube.com/*"],
+        "js": ["noshorts.js"]
+      }
+    ]
+  }
+  
