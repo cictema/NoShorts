@@ -1,4 +1,4 @@
-# NoReels
+# NoShorts
 NoShorts is a browser extension designed to enhance your YouTube browsing experience by automatically removing all YouTube Shorts (Reels) elements from the page. This extension ensures a cleaner, distraction-free interface, allowing you to focus on the content you care about.
 
 ## Version: 1.0
